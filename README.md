@@ -50,8 +50,8 @@ The SQL commands for creating tables and inserting sample data are included with
 
 This project was a collaborative effort by the following team members:
 
-* **Raseel Aldawish (443203036):** Data Requirements (branch & item), Data Dictionary for entities, Insertion commands (Item, Branch, Provide)[cite: 64].
-* **Raghad Ahmed Hassan (443204743):** Transaction requirements (Data entry, update/deletion, queries), Order, Included, and Customer schemes[cite: 65].
+* **Raghad Ahmed Hassan (443204743):** Transaction requirements (Data entry, update/deletion, queries), Order, Included, and Customer schemes[cite: 64].
+* **Raseel Aldawish (443203036):** Data Requirements (branch & item), Data Dictionary for entities, Insertion commands (Item, Branch, Provide)[cite: 65].
 * **Doaa Abdul hakim (443203882):** Data Requirements (customer order), Data Dictionary for relationships, Data Queries commands and outputs[cite: 66].
 * **Norah Nasser aljedai (443200841):** Global enhanced entity relationship diagram, Data Dictionary showing description of all attributes, Insertion commands (Customer, Order, Included)[cite: 66].
 * **Ghadah Suod Alismail (443200501):** Project description, View description, Schemes (Item and Branch), Data Queries commands and outputs[cite: 66].
